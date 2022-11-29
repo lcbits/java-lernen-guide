@@ -52,7 +52,7 @@ Die Ausgabe sollte sein:
 Hallo Welt
 ```
 
-# Die main-Methode
+###Die main-Methode
 Die main()-Methode wird benötigt und Sie werden sie in jedem Java-Programm sehen:
 ```java
 public static void main(String[] args)
