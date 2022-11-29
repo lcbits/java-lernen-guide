@@ -52,7 +52,7 @@ Die Ausgabe sollte sein:
 Hallo Welt
 ```
 
-###Die main-Methode
+**Die main-Methode**
 Die main()-Methode wird benötigt und Sie werden sie in jedem Java-Programm sehen:
 ```java
 public static void main(String[] args)
@@ -60,7 +60,7 @@ public static void main(String[] args)
 Jeder Code innerhalb der main()-Methode wird ausgeführt. Kümmere Dich nicht um die Schlüsselwörter vor und nach main. Du wist sie beim nach und nach kennen lernen.
 Erinnere Dich jetzt einfach daran, dass jedes Java-Programm einen Klassennamen hat, der mit dem Dateinamen übereinstimmen muss, und dass jedes Programm die main()-Methode enthalten muss.
 
-# System.out.println()
+**System.out.println()**
 Innerhalb der main()-Methode können wir die println()-Methode verwenden, um eine Textzeile auf dem Bildschirm auszugeben:
 ```java
 public static void main(String[] args) {
@@ -92,7 +92,7 @@ System.out.println("Dieser Satz wird funktionieren!");
 System.out.println(Dieser Satz wird einen Fehler erzeugen);
 ```
 
-# Die Methode Print()
+**Die Methode Print()**
 Es gibt auch eine print()-Methode, die ähnlich wie println() ist.
 Der einzige Unterschied besteht darin, dass sie keine neue Zeile am Ende der Ausgabe einfügt:
 
